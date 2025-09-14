@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Test Deeplink</title>
+</head>
+<body>
+  <h2>Deeplink Test Page</h2>
+  <p>Click vào link bên dưới để test onelink:</p>
+
+  <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=stylistaccountmenu&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua stylistaccountmenu </a><br><br>
+
+  <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=stylistaccountphone&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua stylistaccountphone</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=invitefriend&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua invitefriend</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=fdlaidinhky&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua fdlaidinhky</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=fdlscaonhat&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua fdlscaonhat</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=fdruttungphan&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua fdruttungphan</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=fdguigop&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua fdguigop</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=fdlsdacbiet&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua fdlsdacbiet</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=fdtralaingay&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua fdtralaingay</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=fdmenu&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua fdmenu</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=topupmobilecode&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua topupmobilecode</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=topupmobile&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua topupmobile</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=topupservices&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua topupservices</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=topupoption&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua topupoption</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=paymentqr&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua paymentqr</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=paymentqrcreate&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua paymentqrcreate</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=paymentbilloption&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua paymentbilloption</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=transferMenu&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua transferMenu</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=transferStock&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua transferStock</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=msbplusServiceMenu&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua msbplusServiceMenu</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=msbplusRefundListVoucher&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua msbplusRefundListVoucher</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=insuranceSelectVendor&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua insuranceSelectVendor</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=internationalFundTransferGuidance&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua internationalFundTransferGuidance</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=internationalFundTransferMenuService&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua internationalFundTransferMenuService</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=remittanceMenuService&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua remittanceMenuService</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=remittanceFileList&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua remittanceFileList</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=remittanceCreateFileTuition&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua remittanceCreateFileTuition</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=remittanceListManagement&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua remittanceListManagement</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=remittanceFileListManagement&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua remittanceFileListManagement </a><br><br>
+
+  <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=onboardingTnc&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua onboardingTnc</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=cdMenu&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua cdMenu</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=cdMenuService&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua cdMenuService</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=cardmenu&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua cardmenu</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=cardopen&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua cardopen</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=applePayInfo&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua applePayInfo</a><br><br>
+
+ <a href="https://mbank.onelink.me/lK5E?af_xp=custom&pid=magnet&c=deeplink&deep_link_value=updateInfo2345&af_dp=msbmbank%3A%2F%2Fapplink&af_force_deeplink=true">Mở app qua updateInfo2345</a><br><br>
+
+</body>
+</html>
